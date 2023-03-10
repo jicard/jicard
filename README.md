@@ -12,7 +12,7 @@
 <div id="about-me">
   <p align="center">👋 Hi! I'm Josh Icard, a Full Stack Web Developer in North Carolina.</p>
   <br>
-  <p align="center">💼 I'm currently a Warehouse Supervisor at Reeb Millwork, studying full-stack web devlopment in my free time.</p>
+  <p align="center">💼 I'm currently a Warehouse Supervisor at Reeb Millwork, while studying full-stack web devlopment to establish a career in Operations IT.</p>
   <br>
   <p align="center">📈 My goal is to turn my Warehouse Management and IT experience into a lifetime of improving processes, promoting efficiency, and teaching others.</p>
 </div>
